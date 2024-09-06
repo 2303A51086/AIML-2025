@@ -1,5 +1,5 @@
-# AIML-2025-2303A51085
-# G.Anoop Goud 
+# AIML-2025-2303A51086
+# Abhiram Yadav 
 # AIML-2024-25
 # Artificial Intelligence and Machine Learning Lab Instruction Sheets
 1. [Lab 03](): Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
